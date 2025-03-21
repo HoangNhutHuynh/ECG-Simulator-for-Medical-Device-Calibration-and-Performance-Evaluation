@@ -1,1 +1,1 @@
-# HoangNhutHuynh-ECG-Simulator-for-Medical-Device-Calibration-and-Performance-Evaluation
+ECG-Simulator-for-Medical-Device-Calibration-and-Performance-Evaluation
